@@ -36,18 +36,30 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
+![Screenshot 2023-11-26 144456](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/af1384f2-afdf-476c-98a7-89d5f067c17c)
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: THIRUMALAI V
+
+RegisterNumber:  23013035
+
 */
-Logic symbol & Truthtable
-RTL realization
+Logical Diagram
+
+![WhatsApp Image 2023-11-27 at 21 37 10_ad9480d2](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/bca15133-5202-4022-9ce6-294464f5a2ff)
+
+Truthtable
+
+![Exp2 truthtable](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/bf648fb2-a0d3-4c06-87c2-499fb3a6ea6c)
 
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
 
+![Screenshot 2023-11-26 141011](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/32e65b7e-99c6-452c-b72d-be4f691a4955)
 
 ### TRUTH TABLE 
 
