@@ -37,8 +37,12 @@ If the output is 1, then the led glows.
 ### 
 Program:
 
-![Screenshot 2023-11-26 144456](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/af1384f2-afdf-476c-98a7-89d5f067c17c)
+![95afa0dc-6b79-4fc2-ab13-831b4f589dfa](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/aae3d54b-16e6-40e8-8a8d-18afd6b23105)
 
+
+![1903d36b-79f1-4c07-a86f-8dfdff099b50](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/509ad84a-6220-4860-b2ae-42ef73641ef7)
+
+ 
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
@@ -47,20 +51,38 @@ Developed by: THIRUMALAI V
 RegisterNumber:  23013035
 
 */
-Logical Diagram
-
-![WhatsApp Image 2023-11-27 at 21 37 10_ad9480d2](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/bca15133-5202-4022-9ce6-294464f5a2ff)
-
+ 
+ 
 Truthtable
 
-![Exp2 truthtable](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/bf648fb2-a0d3-4c06-87c2-499fb3a6ea6c)
-
+ 
 ### Output:
-### RTL
+### RTL reilazation 
+
+![fe1f3e2c-f1c5-4985-8e85-2db19cdef0b6](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/a4e385af-7ad1-4c8c-bad9-d762784d9f59)
+
+![772cb5a2-866c-4ebe-a2f1-4dd12e350adb](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/414685d7-b2bd-4ba7-b092-862e5aa13a92)
+
+
+
 ### TIMING DIAGRAM
 
-![Screenshot 2023-11-26 141011](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/32e65b7e-99c6-452c-b72d-be4f691a4955)
+![160e1dc9-7744-42f2-9df1-692c356739ed](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/fc25a761-4aa8-4180-be55-34820e77b488)
 
+
+
+![7795943b-f76b-4372-b1e8-9bb8de9aac52](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/b1d8d869-af1c-4571-ba24-a302d4c52370)
+
+ 
 ### TRUTH TABLE 
 
+![602b173f-0154-4e88-a3fc-e00de07b56f3](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/33f70e74-5db3-47bc-a098-bf859964f77a)
+
+![883296cb-0a03-4802-a3d5-4e54cd7f1882](https://github.com/Thirumalai23013035/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153185249/a4217c0a-30f6-4979-a2f8-2460b9eb2b2c)
+
+
+
+
 ### Result:
+ Thus a Half Adder and Full Adder is designed and its truthtables are verified in Quartus using
+Verilog programming.
